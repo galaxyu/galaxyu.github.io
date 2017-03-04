@@ -1,0 +1,62 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="intergo.su" resolutions="1x" timestamp="1488660231265">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4221301849" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="cd93e3_6f33f8611490454abc3b33e5ed8f7726.png" crc="4163678576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chemical-plant.jpg" crc="401227950" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ari-armaturen-logo.png" crc="4206287492" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u236-4.png" crc="3976864501" ref="index"/>
+    <file name="ellipse 1.png" crc="389838036" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u253-4.png" crc="4186343443" ref="index"/>
+    <file name="u256-4.png" crc="4045211197" ref="index"/>
+    <file name="regulirovka.png" crc="3841137088" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line.jpg" crc="531974989" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u306-4.png" crc="20974333" ref="index"/>
+    <file name="perekrtie.png" crc="3913890550" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u339-4.png" crc="4204018762" ref="index"/>
+    <file name="safe.png" crc="3807464209" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u372-4.png" crc="171545867" ref="index"/>
+    <file name="otvod.png" crc="331148948" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u435-4.png" crc="4110068999" ref="index"/>
+    <file name="u453-4.png" crc="4580833" ref="index"/>
+    <file name="rabota.png" crc="4236357717" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u467-4.png" crc="4117480685" ref="index"/>
+    <file name="u479-4.png" crc="3979444943" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4092798831" seo="true" mt="1488660037027" redirect="true"/>
+</manifest>
