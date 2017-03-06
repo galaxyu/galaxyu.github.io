@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://galaxyu.github.io/index.html</loc>
-    <lastmod>2017-03-04</lastmod>
+    <loc>http://intergo.su/index.html</loc>
+    <lastmod>2017-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://intergo.su/phone/index.html"/>
     <image:image>
       <image:loc>http://intergo.su/images/cd93e3_6f33f8611490454abc3b33e5ed8f7726.png</image:loc>
     </image:image>
