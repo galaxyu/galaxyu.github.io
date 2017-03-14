@@ -1,0 +1,136 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="intergo.su" resolutions="1x" timestamp="1489507988138">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4047777142" ref="index"/>
+    <file name="iefonts_index.css" crc="3874444771" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:index"/>
+    <file name="form_check.php" crc="3841221102" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="phone>index"/>
+    <file name="form_process.php" crc="3899230280" ref="phone>index"/>
+    <file name="form-u4806.php" crc="498420014" ref="phone>index"/>
+    <file name="form-u4875.php" crc="4034894487" ref="phone>index"/>
+    <file name="form-u4668.php" crc="122010253" ref="phone>index"/>
+    <file name="form-u3698.php" crc="4112641076" ref="phone>index"/>
+    <file name="form-u4737.php" crc="314629840" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>index:index"/>
+    <file name="form-u3640.php" crc="3796427282" ref="phone>index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:index"/>
+    <file name="form-u750.php" crc="75915847" ref="index"/>
+    <file name="form-u4542.php" crc="4278087464" ref="index"/>
+    <file name="form-u1209.php" crc="330214264" ref="index"/>
+    <file name="form-u4416.php" crc="197073279" ref="index"/>
+    <file name="form-u4479.php" crc="374149515" ref="index"/>
+    <file name="form-u511.php" crc="4148996186" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="cd93e3_6f33f8611490454abc3b33e5ed8f7726.png" crc="4163678576" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chemical-plant.jpg" crc="401227950" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ari-armaturen-logo-u3591-fr.png" crc="388588368" ref="phone>index"/>
+    <file name="ellipse 1.png" crc="389838036" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="diploma.png" crc="217009264" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rich.png" crc="4129090595" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="like.png" crc="3821345955" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="regulirovka.png" crc="3841137088" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line.jpg" crc="531974989" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perekrtie.png" crc="3913890550" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="safe.png" crc="3807464209" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="otvod.png" crc="331148948" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="balluff-u3831-fr.png" crc="364046834" ref="phone>index"/>
+    <file name="rockwell-u3832-fr.png" crc="4133415349" ref="phone>index"/>
+    <file name="endresshauser-u3833-fr.png" crc="57429334" ref="phone>index"/>
+    <file name="mitsubishi_electric-u3834-fr.png" crc="32617904" ref="phone>index"/>
+    <file name="hydac-u3835-fr.png" crc="313715569" ref="phone>index"/>
+    <file name="siemens-u3836-fr.png" crc="3953487405" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="u3650.png" crc="185235853" ref="phone>index"/>
+    <file name="u3650-m.png" crc="3915961502" ref="phone>index"/>
+    <file name="u3650-fs.png" crc="70406921" ref="phone>index"/>
+    <file name="ari-armaturen-favicon.ico" crc="510103377" ref="index"/>
+    <file name="ari-armaturen-logo.png" crc="4293390486" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="balluff.png" crc="308799864" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rockwell.png" crc="3986834930" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="endresshauser.png" crc="3844116820" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mitsubishi_electric.png" crc="33912899" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hydac.png" crc="4144310274" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siemens.png" crc="93611126" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rabota.png" crc="4262148145" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u520.png" crc="185235853" ref="index"/>
+    <file name="u520-m.png" crc="3915961502" ref="index"/>
+    <file name="u520-fs.png" crc="70406921" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3836851627" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3468815" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="41303201" seo="true" mt="1489506006623" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="135521911" seo="true" mt="1489505927762" redirect="true"/>
+</manifest>
