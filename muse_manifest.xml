@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="intergo.su" resolutions="1x" timestamp="1489507988138">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="intergo.su" resolutions="1x" timestamp="1489587984279">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4047777142" ref="index"/>
+    <file name="index.css" crc="4059562238" ref="index"/>
     <file name="iefonts_index.css" crc="3874444771" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -15,11 +15,11 @@
     <file name="form_check.php" crc="3841221102" ref="phone>index"/>
     <file name="form_throttle.php" crc="4048049783" ref="phone>index"/>
     <file name="form_process.php" crc="3899230280" ref="phone>index"/>
-    <file name="form-u4806.php" crc="498420014" ref="phone>index"/>
     <file name="form-u4875.php" crc="4034894487" ref="phone>index"/>
-    <file name="form-u4668.php" crc="122010253" ref="phone>index"/>
-    <file name="form-u3698.php" crc="4112641076" ref="phone>index"/>
+    <file name="form-u4806.php" crc="498420014" ref="phone>index"/>
     <file name="form-u4737.php" crc="314629840" ref="phone>index"/>
+    <file name="form-u3698.php" crc="4112641076" ref="phone>index"/>
+    <file name="form-u4668.php" crc="122010253" ref="phone>index"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:index"/>
     <file name="touchswipe.js" crc="3912873526" ref="phone>index:index"/>
@@ -42,7 +42,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="ari-armaturen-logo-u3591-fr.png" crc="388588368" ref="phone>index"/>
-    <file name="ellipse 1.png" crc="389838036" ref="phone>index:index">
+    <file name="ellipse 1.png" crc="408129934" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -50,15 +50,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="diploma.png" crc="217009264" ref="phone>index:index">
+    <file name="guarantee.png" crc="4161298682" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rich.png" crc="4129090595" ref="phone>index:index">
+    <file name="money.png" crc="4004238843" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="like.png" crc="3821345955" ref="phone>index:index">
+    <file name="list.png" crc="286282122" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -127,10 +127,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3836851627" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="3468815" ref="phone>index"/>
+      <file name="index.css" crc="493287442" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="130964349" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="41303201" seo="true" mt="1489506006623" redirect="true"/>
+    <file name="index.html" crc="388165008" seo="true" mt="1489587863111" redirect="true"/>
   </folder>
-  <file name="index.html" crc="135521911" seo="true" mt="1489505927762" redirect="true"/>
+  <file name="index.html" crc="130893169" seo="true" mt="1489587944637" redirect="true"/>
 </manifest>
