@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="intergo.su" resolutions="1x" timestamp="1489587984279">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="intergo.su" resolutions="1x" timestamp="1489588457827">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4059562238" ref="index"/>
@@ -35,10 +35,8 @@
   <folder name="images">
     <file name="cd93e3_6f33f8611490454abc3b33e5ed8f7726.png" crc="4163678576" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="chemical-plant.jpg" crc="401227950" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="ari-armaturen-logo-u3591-fr.png" crc="388588368" ref="phone>index"/>
@@ -46,44 +44,31 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="guarantee.png" crc="4161298682" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="money.png" crc="4004238843" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="list.png" crc="286282122" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="regulirovka.png" crc="3841137088" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="line.jpg" crc="531974989" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="perekrtie.png" crc="3913890550" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="safe.png" crc="3807464209" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="otvod.png" crc="331148948" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="balluff-u3831-fr.png" crc="364046834" ref="phone>index"/>
@@ -127,10 +112,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="493287442" ref="phone>index"/>
+      <file name="index.css" crc="4294110570" ref="phone>index"/>
       <file name="iefonts_index.css" crc="130964349" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="388165008" seo="true" mt="1489587863111" redirect="true"/>
+    <file name="index.html" crc="3783153392" seo="true" mt="1489588445112" redirect="true"/>
   </folder>
   <file name="index.html" crc="130893169" seo="true" mt="1489587944637" redirect="true"/>
 </manifest>
